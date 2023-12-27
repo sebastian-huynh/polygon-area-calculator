@@ -11,7 +11,7 @@ There are two classes of polygons that this project focuses on: <br>
 
 "shape_calculator" holds methods that can be called from main to set/mutate or get/return the width/height values of a particular shape. It also contains further methods for: <br>
 - **measuring diagonal length** (even for squares as the width and height are derived from the given side length for calculations)
-- **seeing how many of X shapes will fit in Y shape** (done by diving the areas of the two shapes) <br>
+- **seeing how many of X shapes will fit in Y shape** (done by diving the areas of the two shapes) <br><br>
 
 <!-- -->
 
