@@ -1,2 +1,2 @@
 # Polygon Calculations With Python
-User-defined python package that returns multiple geometric properties based on shape width and height.
+This is one of the practices I completed for the "Scientific Computing with Python" certificate from freecodecamp.org.
